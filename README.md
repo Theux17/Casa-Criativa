@@ -1,9 +1,8 @@
 <h1 align="center">
-  
-  <img src="public/logo.png" alt="YOUR_PROJECT_NAME" width="400">
-
+    <img src="public/logo.png" alt="YOUR_PROJECT_NAME" width="400">
 </h1>
 
+[![Image from Gyazo](https://i.gyazo.com/71d08323ec78936263f3d69f2ca6be18.gif)](https://gyazo.com/71d08323ec78936263f3d69f2ca6be18)
 ---
 
 ## Sobre
