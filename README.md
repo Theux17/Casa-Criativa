@@ -7,6 +7,7 @@
 
 ## Sobre
 Projeto criado durante a maratona da **Rocketseat**, a ideia do projeto é cadastrar ideias para se fazer em casa durante a quarentena e após a quarentena.
+
 ---
 
 ## Tecnologias Utilizadas 
