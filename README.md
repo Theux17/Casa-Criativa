@@ -33,7 +33,6 @@ $ git clone https://github.com/Theux17/Casa-Criativa.git
 # Entrar no diretório 
 $ cd Casa-Criativa
 
-
 # Instalar as segunites dependências
 
 $ npm init -y
