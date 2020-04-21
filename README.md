@@ -1,8 +1,9 @@
 <h1 align="center">
-    <img src="https://i.gyazo.com/103d30806ff06b73113d4773e3daaf89.png">
+  
+  <img src="public/logo.png" alt="YOUR_PROJECT_NAME" width="400">
+
 </h1>
 
-[![Image from Gyazo](https://i.gyazo.com/71d08323ec78936263f3d69f2ca6be18.gif)](https://gyazo.com/71d08323ec78936263f3d69f2ca6be18)
 ---
 
 ## Sobre
