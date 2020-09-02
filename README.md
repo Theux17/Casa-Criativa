@@ -33,22 +33,11 @@ $ git clone https://github.com/Theux17/Casa-Criativa.git
 # Entrar no diretório 
 $ cd Casa-Criativa
 
+# Instalar as dependências
 
-# Instalar as segunites dependências
+$ npm install
 
-$ npm init -y
-
-$ npm install express
-
-$ npm install -D nodemon
-
-$ npm install nunjucks
-
-# Instale o banco de dados
-
-$ npm i sqlite3
-
-# Após instalar as dependências e o banco de dados, inicie a aplicação com o seguinte comando
+# Após instalar as dependências, inicie a aplicação com o seguinte comando
 
 $ npm start
 
